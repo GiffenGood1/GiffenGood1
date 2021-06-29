@@ -3,7 +3,7 @@
 
 - I’m currently working on my frontend development skills 
 
-- I’m currently learning **React**
+- I’m currently learning **React** and contributing at isgood.ai
 
 - You can reach me at **matthewstyzinski@gmail.com**
 
