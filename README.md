@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
-<h3 align="center">I am a Chemical Engineer turned Developer who is excited to apply my previous skills and knowledge to the ever expanding field of web development</h3>
+<h3 align="center">I am a Chemical Engineer turned Web Developer who loves solving problems and writing code</h3>
 
-- I’m currently working on my frontend development skills 
+- I’m currently working on becoming a fullstack dev in Node/React stacks 
 
-- I’m currently learning **React** and contributing at isgood.ai
+- I’m currently learning **Typescript**, **Node**, **typeorm** and contributing at isgood.ai
 
 - You can reach me at **matthewstyzinski@gmail.com**
 
